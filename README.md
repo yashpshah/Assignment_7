@@ -1,2 +1,2 @@
 # Assignment_7
- Javascript basic fundamentals part 2
+ Implemented some basic javascript fundamentals like how to use arrays,functions and loops
